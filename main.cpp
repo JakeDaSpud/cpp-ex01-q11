@@ -3,6 +3,9 @@
 
 using namespace std;
 
+//How would you modify the border program to display multiple lines of text in the
+//border? What do you need to consider? Implement your solution.
+
 int main() {
     vector<string> lines;
     string userInput;
